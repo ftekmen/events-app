@@ -9,7 +9,7 @@
 }
 
 .logo {
-  font-size: 1.5rem;
+  font-size: 1rem;
   color: white;
   font-family: 'Fira', sans-serif;
   height: 100%;
@@ -24,6 +24,9 @@
   color: #94fdfd;
 }
 
+.navigation li {
+  list-style-type: none;
+}
 .navigation a {
   text-decoration: none;
   color: #74dacc;
@@ -36,6 +39,6 @@
   }
 
   .navigation a {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
   }
 }
